@@ -1,2 +1,3 @@
-# My-First-practice-
+# My-First-practice
 practice in site layout
+Without scss and adaptive
